@@ -29,7 +29,7 @@ else
     </section>
 
     <section class="instructions">
-        <h2>What's Next?</h2>
+        <h2>Jeff, tell Ryan to do these next so he can leave his job!!</h2>
         <ul>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/">AWS Elastic Beanstalk overview</a></li>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_PHP_eb.html">Deploying AWS Elastic Beanstalk Applications in PHP Using Eb and Git</a></li>
@@ -38,7 +38,7 @@ else
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/customize-containers-resources.html">Customizing Environment Resources</a></li>
         </ul>
 
-        <h2>AWS SDK for PHP</h2>
+        <h2>These are probably too advanced for you at the moment Jeff. Sorry :(</h2>
         <ul>
             <li><a href="http://aws.amazon.com/sdkforphp">AWS SDK for PHP home</a></li>
             <li><a href="http://aws.amazon.com/php">PHP developer center</a></li>
